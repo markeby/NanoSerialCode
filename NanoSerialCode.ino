@@ -72,7 +72,7 @@ int EnterNumber (char c)
         }
     else if ( (c == 0x08) && Str.length () )
         {
-        Serial << c << ' ' << c;
+        Serial << "\b \b";
         Str.remove (Str.length () - 1);
         }
     else if ( c == '\e' )    // ESC
