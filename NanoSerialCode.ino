@@ -1,5 +1,5 @@
 //#############################################################
-//# file:        DumpNanoEeprom.ino                           #
+//# file:        NanoSerialCode.ino                           #
 //# version:     0.9.0                                        #
 //# author:      Mark Ebersole                                #
 //# contact:     markebby@gmail.com                           #
